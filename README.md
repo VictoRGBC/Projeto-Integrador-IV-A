@@ -1,5 +1,5 @@
 # 📊 Identificação de "Zonas de Risco" para Evasão Escolar
-**Projeto Integrador IV-A | Big Data e Inteligência Artificial - PUC Goiás**
+**Projeto Integrador IV | Big Data e Inteligência Artificial - PUC Goiás**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
